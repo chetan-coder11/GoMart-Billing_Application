@@ -1,5 +1,4 @@
-# GoMart-Billing_Application
-GoMart: A modern e-commerce platform built with Spring Boot, Hibernate, and MySQL. It features user management, product listing, and cart functionalities. Users can browse products, manage their cart, and complete transactions seamlessly.
+
 # GoMart - E-commerce Application
 
 GoMart is a comprehensive e-commerce application built using Spring Boot on the backend and React.js on the frontend. The application features user authentication, category management, product management, cart operations, and order processing. It also includes an POS dashboard for managing products and categories, with integrated image storage using Cloudinary.
